@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.11.6",
     "resend": "^4.7.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
